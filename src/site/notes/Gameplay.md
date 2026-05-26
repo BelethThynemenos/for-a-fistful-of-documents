@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/gameplay/","dg-note-properties":{}}
 ---
 
-## Game Flow
+# **GAMEPLAY**
+## **Game Flow**
 
 - ***Attendere*** l'apertura della gilda con l'accensione della [[lanterna\|Lanterna]].  
     

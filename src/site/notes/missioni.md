@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/missioni/","dg-note-properties":{}}
 ---
 
+# **MISSIONI**
+
 Le missioni sono la principale forma di [[guadagno\|guadagno]] della gilda.
 Rappresentano le richieste di aiuto provenienti dai richiedenti che raggiungono il giocatore da tutti i [[villaggi\|villaggi]] di [[Roveria\|Roveria]]
 # Elementi caratteristici
