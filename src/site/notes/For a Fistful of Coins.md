@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/for-a-fistful-of-coins/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-# Indice
-
+# **FOR A FISTFUL OF COINS - GDD**
+# *Indice*
 -  [[Reference\|Reference]]
 -  [[Overview\|Overview]]
 -  [[Gameplay\|Gameplay]]
