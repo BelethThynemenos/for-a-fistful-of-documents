@@ -5,13 +5,13 @@
 # **GAMEPLAY**
 ## **Game Flow**
 
-- ***Attendere*** l'apertura della gilda con l'accensione della [[lanterna\|Lanterna]].  
+- ***Attendere*** l'apertura della gilda con l'accensione della [[Schede secondarie/lanterna\|lanterna]].  
     
 - ***Interagire*** con gli eventuali [[npc\|npc]] e [[mercanti\|mercanti]] che si presentano alla gilda.
     
-- ***Dialogare*** con i nuovi [[mercenari\|mercenari]] per introdurli alla gilda o con i [[mercenari\|mercenari]] rientrati dalle [[missioni#^29f423\|missioni regionali]].
+- ***Dialogare*** con i nuovi [[mercenari\|mercenari]] per introdurli alla gilda o con i [[mercenari\|mercenari]] rientrati dalle [[Schede secondarie/missioni#^29f423\|missioni regionali]].
     
-- ***Aprire*** la [[mappa\|mappa]] per visualizzare le [[missioni\|Missioni]] [[missioni#^a81c58\|cittadine]]. e [[missioni#^29f423\|regionali]].
+- ***Aprire*** la [[mappa\|mappa]] per visualizzare le [[Schede secondarie/missioni\|missioni]] [[Schede secondarie/missioni#^a81c58\|cittadine]]. e [[Schede secondarie/missioni#^29f423\|regionali]].
     
 - ***Leggere*** le descrizioni delle [[missioni disponibili.\|missioni disponibili.]]
     
@@ -21,9 +21,9 @@
     
 - ***Leggere*** il [[report\|report]] per visualizzare i risultati delle [[missioni cittadine\|missioni cittadine]].
     
-- ***Chiusura*** della gilda con lo spegnimento della [[lanterna\|Lanterna]].
+- ***Chiusura*** della gilda con lo spegnimento della [[Schede secondarie/lanterna\|lanterna]].
     
-- ***Interagire*** con gli eventuali mercenari rientrati [[prematuramente\|prematuramente]] dalle [[missioni#^29f423\|missioni regionali]].
+- ***Interagire*** con gli eventuali mercenari rientrati [[prematuramente\|prematuramente]] dalle [[Schede secondarie/missioni#^29f423\|missioni regionali]].
 	
 - ***Interagire*** con gli eventuali npc che consegnano [[missioni impreviste\|missioni impreviste]] o con i [[mercanti serali.\|mercanti serali.]]
 	
