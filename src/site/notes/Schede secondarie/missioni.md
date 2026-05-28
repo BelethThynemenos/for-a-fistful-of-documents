@@ -64,17 +64,13 @@ A seconda del richiedente di missione vengono definiti i seguenti parametri:
 - un registro lessicale
 - una differente qualità del foglio di missione
 
-	##### ***1.C.a - Guadagno***
+##### ***1.C.a - Guadagno***
 { #1bb2f6}
 
-	
-	La principale ricompensa per il completamento di una missione è il guadagno.
-	Ogni categoria di richiedente di missione è definita da una tabella di guadagni possibli per singola missione 
-
-	##### ***1.C.b - Monete***
-	I giocatori possono guadagnare dalle missioni due tipi di monete,
-	quelle in oro e quelle in argento - m.o. - m.a.
-	Ogni 10 monete d'argento si ottiene il valore di 1 monete d'oro
+La principale ricompensa per il completamento di una missione è il guadagno.
+Ogni categoria di richiedente di missione è definita da una tabella di guadagni possibli per singola missione 
+##### ***1.C.b - Monete***
+I giocatori possono guadagnare dalle missioni due tipi di monete, quelle in oro e quelle in argento - m.o. - m.a. Ogni 10 monete d'argento si ottiene il valore di 1 monete d'oro
 
 | Richiedenti                  | Range di guadagno   |
 | ---------------------------- | ------------------- |
