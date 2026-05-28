@@ -88,21 +88,28 @@ A seconda del richiedente di missione vengono definiti i seguenti parametri:
 ###  **1.D - TIPI DI RAMIFICAZIONI E RISULTATI**
 { #29f421}
 
-a seconda dei vari risultati ottenuti da un mercenario durante lo svolgimento di una missione, questo determinerà come alcune missioni possano ramificarsi in ulteriori missioni da portare a termine, connesse direttamente al successo o al fallimento delle stesse.
+a seconda dei vari risultati ottenuti da un mercenario durante lo svolgimento di una missione, questo determinerà come alcune missioni possano ramificarsi in ulteriori quests da portare a termine, connesse direttamente al successo o al fallimento delle stesse.
+
+Una missione completata ha i seguenti output:
+- fallita con conseguenza
+- fallita
+- superata con conseguenza
+- superata
+- superata con bonus
 
 ## **2 - STRUTTURA TECNICA:**
 Ogni missione è composta da due categorie di fogli di missione:
 - Pagine di descrizione
 - Pagine illustrate
 
-### **2.A - PAGINE DI DESCRIZIONE
+### **2.A - PAGINE DI DESCRIZIONE**
 ![FAFOC-QUEST-1.png\|474](/img/user/Immagini/FAFOC-QUEST-1.png)
 		All'interno delle pagine di descrizione sono presenti:
 			- Titolo della missione
 			- Descrizione della missione
 			- Richiedente aiuto
 
-### **2.B - Pagine di descrizione**
+### **2.B - PAGINE ILLUSTRATE**
 ![FAFOC-QUEST-2.png\|475](/img/user/Immagini/FAFOC-QUEST-2.png)
 		All'interno delle pagine illustrate sono presenti:
 			- Illustrazione della missione
