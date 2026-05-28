@@ -5,7 +5,7 @@
 # **MISSIONI**
 
 Le missioni sono la principale forma di [[Schede secondarie/missioni#^1bb2f6\|guadagno]] della gilda.
-Rappresentano le richieste di aiuto provenienti dai richiedenti che raggiungono il giocatore da tutti i [[villaggi\|villaggi]] di [[Roveria\|Roveria]]
+Rappresentano le richieste di aiuto provenienti dai richiedenti che raggiungono il giocatore da tutti i [[villaggi\|villaggi]] di [[Worldbuilding/Roveria\|Roveria]]
 # ELEMENTI CARATTERISTICI
 ## **1 - STRUTTURA LOGICA**
 Ogni missione è riconoscibile dai seguenti elementi:
@@ -36,7 +36,7 @@ determinano i tipi di durata che le missioni possiedono e la durata massima che 
 - **Missioni regionali**
 { #29f423}
 
-	- Sono le missioni che si svolgono al di fuori della mappa della città, sfruttando la mappa di [[Roveria\|Roveria]], le missioni regionali possono essere completate in un tempo compreso tra 1 e X giorni e vengono sempre mostrate sul [[giornale\|giornale]] una volta completate.
+	- Sono le missioni che si svolgono al di fuori della mappa della città, sfruttando la mappa di [[Worldbuilding/Roveria\|Roveria]], le missioni regionali possono essere completate in un tempo compreso tra 1 e X giorni e vengono sempre mostrate sul [[giornale\|giornale]] una volta completate.
 
 #### **1.B.b - SCADENZA**
 Ogni volta che una missione supera il proprio tempo limite essa verrà rimossa dalla mappa e categorizzata come ***non completata*** dal giocatore.
@@ -94,7 +94,7 @@ Una *missione completata* ha i seguenti output:
 - superata con bonus
 
 #### **CONSEGUENZE**
-Ogni missione determina delle conseguenze, sia per i [[mercenari\|mercenari]], che per il [[Roveria\|mondo di gioco]]
+Ogni missione determina delle conseguenze, sia per i [[mercenari\|mercenari]], che per il [[Worldbuilding/Roveria\|mondo di gioco]]
 
 ## **2 - STRUTTURA TECNICA:**
 Ogni missione è composta da due categorie di fogli di missione:
