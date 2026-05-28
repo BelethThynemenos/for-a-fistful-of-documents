@@ -3,7 +3,7 @@
 ---
 
 # **GAMEPLAY**
-## **Game Flow**
+## **GAME FLOW**
 
 - ***Attendere*** l'apertura della gilda con l'accensione della [[Schede secondarie/lanterna\|lanterna]].  
     
@@ -33,10 +33,10 @@
     
 - ***Chiudere*** la giornata usando le [[chiavi\|chiavi]].
     
-- ***Iniziare*** la giornata ricevendo il [[giornale\|giornale]] per leggere le notizie, tra cui i risultati delle [[missioni completate\|missioni completate]] e interagendo con l'[[araldo\|araldo]].
+- ***Iniziare*** la giornata ricevendo il [[giornale\|giornale]] per leggere le notizie, tra cui i risultati delle [[Schede secondarie/missioni#^29f421\|missioni completate]] e interagendo con l'[[araldo\|araldo]].
 
 
-### Other game action
+### OTHER GAME ACTIION
 
 Oltre alle precedenti azioni, le seguenti azioni fanno parte del flusso di gioco:
   

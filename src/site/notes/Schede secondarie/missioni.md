@@ -12,7 +12,7 @@ Ogni missione è riconoscibile dai seguenti elementi:
 - [[Schede secondarie/missioni#^29f421\|Tipo di missione]]
 - [[Schede secondarie/missioni#^d8094a\|Tipi di durata e scadenze]]
 - [[Schede secondarie/missioni#^6df22a\|Tipo di richiedente di missione]]
-- Tipo di ramificazioni e risultati
+- [[Schede secondarie/missioni#^29f421\|Tipo di ramificazioni e risultati]]
 ###  **1.A - TIPI DI MISSIONE**
 { #29f421}
 
@@ -72,26 +72,29 @@ Ogni categoria di richiedente di missione è definita da una tabella di guadagni
 ##### ***1.C.b - Monete***
 I giocatori possono guadagnare dalle missioni due tipi di monete, quelle in oro e quelle in argento - m.o. - m.a. Ogni 10 monete d'argento si ottiene il valore di 1 monete d'oro
 
-| Richiedenti                  | Range di guadagno   |
-| ---------------------------- | ------------------- |
-| Cittadini semplici           | 1 argento - 5 oro   |
-| Cittadini borghesi           | 5 oro - 50 oro      |
-| Guardie cittadine            | 1 argento - 30 oro  |
-| Gilde                        | 20 oro - 150 oro    |
-| Podestà e conestabili        | 30 oro - 500 oro    |
-| Chierici e persone di chiesa | 1 argento - 500 oro |
+| **Richiedenti**              | **Range di guadagno** |
+| ---------------------------- | --------------------- |
+| Cittadini semplici           | 1 argento - 5 oro     |
+| Cittadini borghesi           | 5 oro - 50 oro        |
+| Guardie cittadine            | 1 argento - 30 oro    |
+| Gilde                        | 20 oro - 150 oro      |
+| Podestà e conestabili        | 30 oro - 500 oro      |
+| Chierici e persone di chiesa | 1 argento - 500 oro   |
 
 ###  **1.D - TIPI DI RAMIFICAZIONI E RISULTATI**
 { #29f421}
 
-a seconda dei vari risultati ottenuti da un mercenario durante lo svolgimento di una missione, questo determinerà come alcune missioni possano ramificarsi in ulteriori quests da portare a termine, connesse direttamente al successo o al fallimento delle stesse.
+a seconda dei vari risultati ottenuti da un mercenario durante lo svolgimento di una missione, questo determinerà come alcune missioni possano ramificarsi in ulteriori *quests* da portare a termine, connesse direttamente al successo o al fallimento delle stesse.
 
-Una missione completata ha i seguenti output:
+Una *missione completata* ha i seguenti output:
 - fallita con conseguenza
 - fallita
 - superata con conseguenza
 - superata
 - superata con bonus
+
+#### **CONSEGUENZE**
+Ogni missione determina delle conseguenze, sia per i [[mercenari\|mercenari]], che per il [[Roveria\|mondo di gioco]]
 
 ## **2 - STRUTTURA TECNICA:**
 Ogni missione è composta da due categorie di fogli di missione:
