@@ -4,5 +4,6 @@
 
 Lista delle pagine relative all'ambientazione di [[For a Fistful of Coins\|For a Fistful of Coins]]
 
-- [[Worldbuilding/Tarell\|Tarell]]
 - [[Worldbuilding/Roveria\|Roveria]]
+- [[Worldbuilding/Sistema Tarelliano\|Sistema Tarelliano]]
+- [[Worldbuilding/Tarell\|Tarell]]
