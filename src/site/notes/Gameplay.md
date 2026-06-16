@@ -9,7 +9,7 @@
     
 - ***Interagire*** con gli eventuali [[npc\|npc]] e [[mercanti\|mercanti]] che si presentano alla gilda.
     
-- ***Dialogare*** con i nuovi [[mercenari\|mercenari]] per introdurli alla gilda o con i [[mercenari\|mercenari]] rientrati dalle [[Schede secondarie/missioni#^29f423\|missioni regionali]] ottenendo feedback dai mercenari e le [[Schede secondarie/missioni#^1bb2f6\|monete guadagnate]] delle missioni completate.
+- ***Dialogare*** con i nuovi [[Mercenari/mercenari\|mercenari]] per introdurli alla gilda o con i [[Mercenari/mercenari\|mercenari]] rientrati dalle [[Schede secondarie/missioni#^29f423\|missioni regionali]] ottenendo feedback dai mercenari e le [[Schede secondarie/missioni#^1bb2f6\|monete guadagnate]] delle missioni completate.
     
 - ***Aprire*** la [[mappa\|mappa]] per visualizzare le [[Schede secondarie/missioni\|missioni]] [[Schede secondarie/missioni#^a81c58\|cittadine]]. e [[Schede secondarie/missioni#^29f423\|regionali]].
     
@@ -27,7 +27,7 @@
 	
 - ***Interagire*** con gli eventuali npc che consegnano [[missioni impreviste\|missioni impreviste]] o con i [[mercanti serali.\|mercanti serali.]]
 	
-- ***Fare domande*** ai [[mercenari\|mercenari]] presenti in taverna durante l'[[ora di chiusura\|ora di chiusura]].
+- ***Fare domande*** ai [[Mercenari/mercenari\|mercenari]] presenti in taverna durante l'[[ora di chiusura\|ora di chiusura]].
     
 - ***Comprendere*** i punti di forza e i punti di debolezza di ogni mercenario.
     
