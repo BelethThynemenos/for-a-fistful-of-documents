@@ -6,8 +6,8 @@
 # **GAME DESIGN DOCUMENT**
 # *Indice*
 
--  [[Reference\|Reference]]
--  [[Overview\|Overview]]
--  [[Gameplay\|Gameplay]]
+-  [[Gameplay/Reference\|Reference]]
+-  [[Gameplay/Overview\|Overview]]
+-  [[Gameplay/Gameplay\|Gameplay]]
 -  [[Ambientazione\|Ambientazione]]
 -  [[Hurram\|Hurram]]

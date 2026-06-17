@@ -4,8 +4,8 @@
 
 # **GILDE**
 
-Le gilde sono a [[Worldbuilding/Roveria\|Roveria]] la principale fonte di guadagno e il principale motore dell'economia.
-Intese come gruppi di persone organizzate, le gilde hanno il ruolo di gestire e organizzare i lavoratori nelle decine di villaggi sparsi in tutta [[Worldbuilding/Roveria\|Roveria]]. Ogni gilda ha spesso controllo su pochi villaggi, ma esistono situazioni in cui gilde di particolare influenza hanno iniziato ad estendere il proprio controllo su l'intera regione, come la [[Worldbuilding/Gilde/Gilda del Sole Nero\|Gilda del Sole Nero]] che diffonde informazioni in tutta la regione senza ostacolo di gilde rivali. 
+Le gilde sono a [[Worldbuilding/Sistema Tarelliano/Roveria\|Roveria]] la principale fonte di guadagno e il principale motore dell'economia.
+Intese come gruppi di persone organizzate, le gilde hanno il ruolo di gestire e organizzare i lavoratori nelle decine di villaggi sparsi in tutta [[Worldbuilding/Sistema Tarelliano/Roveria\|Roveria]]. Ogni gilda ha spesso controllo su pochi villaggi, ma esistono situazioni in cui gilde di particolare influenza hanno iniziato ad estendere il proprio controllo su l'intera regione, come la [[Worldbuilding/Gilde/Gilda del Sole Nero\|Gilda del Sole Nero]] che diffonde informazioni in tutta la regione senza ostacolo di gilde rivali. 
 
 Nella stragrande maggioranza dei casi, le gilde si trovano a competere le une contro le altre da città a città, o perfino nei confini dello stesso villaggio.
 
