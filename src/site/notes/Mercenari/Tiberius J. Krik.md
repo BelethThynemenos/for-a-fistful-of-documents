@@ -4,7 +4,7 @@
 
 # **TIBERIUS J. KRIK**
 
-| ![FAFOC_MERCENARY_Tiberius J. Krik.png](/img/user/FAFOC_MERCENARY_Tiberius%20J.%20Krik.png) |
+| ![FAFOC_MERCENARY_Tiberius J. Krik.png](/img/user/Immagini/FAFOC_MERCENARY_Tiberius%20J.%20Krik.png) |
 | ----------------------------------------- |
 ## **DATI PERSONALI**
 
