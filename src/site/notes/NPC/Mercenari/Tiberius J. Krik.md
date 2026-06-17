@@ -1,0 +1,32 @@
+---
+{"dg-publish":true,"permalink":"/npc/mercenari/tiberius-j-krik/","dg-note-properties":{}}
+---
+
+# **TIBERIUS J. KRIK**
+
+| ![FAFOC_MERCENARY_Tiberius J. Krik.png](/img/user/Immagini/FAFOC_MERCENARY_Tiberius%20J.%20Krik.png) |
+| ----------------------------------------- |
+## **DATI PERSONALI**
+
+NOME: ***TIBERIUS JAMES*** 
+COGNOME: ***KRIK***
+DATA DI NASCITA: ***12/08/764 III Era***
+LUOGO DI NASCITA: ***[[Worldbuilding/Turdoch\|TURDOCH]]***
+
+## **BACKGROUND**
+
+Tiberius James Krik, nato il quarto giorno del terzo mese del 764esimo anno della seconda era è stato uno dei più famosi capitani della costa di Roveria, soprattutto nella zona sud della regione. 59 anni, un fisico ancora muscoloso e ben piazzato, il capitano Krik ha visto crescere la sua fama tra i porti di [[Worldbuilding/Turdoch\|Turdoch]], Osillath e nei piccoli villaggi a sud che si affacciano sul mare. Nato e cresciuto tra le barche di [[Worldbuilding/Turdoch\|Turdoch]] e i mercati di pescatori della costa, Krik si è dimostrato negli anni un capace capitano e uno scorbutico compagno di bevute. Figlio dell’erborista del paese e di un vecchio marinaio della gilda dei mercanti di [[Boster\|Boster]], Krik cresce con una figura materna premurosa e un padre particolarmente assente, sempre in viaggio per lavoro tra il mare e i mercati di Roveria. Fin da giovanissimo il giovane Tiberius cresce alternando una vita tranquilla tra le case dei bisognosi di [[Worldbuilding/Turdoch\|Turdoch]] e le giornate movimentate sui pontili delle navi mercantili e dei pescherecci.  
+  
+Dalla madre assorbe l’interesse per le erbe medicinali e la cura degli altri, crescendo a modo suo premuroso e attento, pur assomigliando nei modi al padre, decisamente più taciturno e silenzioso. Tutti tratti che lo rendono a detta di molti un ottimo capitano, diretto e senza troppi peli sulla lingua, ma capace di prendersi cura delle persone sotto il suo comando.  
+Dal padre eredita la corporatura robusta e una naturale affinità con il mare, che lo portano ben presto a lavorare prima dietro le sue orme e in seguito come marinaio per ben più di una gilda. Dai quindici anni ai quaranta prende il mare più di ogni altro marinaio sulla costa di Roveria, partecipando a numerose missioni mercantili, prima come semplice marinaio, poi trovandosi al comando di piccoli equipaggi, pronti a difendere il carico con la forza e le armi.
+
+Famoso tra i suoi uomini per non aver mai impugnato una spada, soprattutto dopo un brutto incidente con dei pirati, Krik è un uomo dalle spalle larghe e dal colpo pesante, che molto spesso si trova a sfruttare l’ambiente circostante per affrontare i suoi problemi; un vecchio lupo di mare che sfrutta la sua intelligenza pratica, più che quella accademica.
+
+Dato da molti per morto, Krik finisce il suo viaggio per mare in un mattino di primavera, poche settimane dopo il suo 43esimo compleanno. Non è però la morte o la sofferenza ad allontanarlo dalle acque agitate di Roveria, ma ben altro. È il suo affetto per Marlene Labourill che lo spinge a lasciare una vita di pericoli per godersi la tranquillità delle campagne poco fuori [[Worldbuilding/Turdoch\|Turdoch]]. La donna, una viandante conosciuta al porto di [[Boster\|Boster]] nell’anno del suo 40esimo compleanno, rapisce e cattura l’anima del marinaio e per mesi viaggiano assieme. Dopo quasi due anni di peripezie tra i porti e le navi della costa est, i due scelgono finalmente di tornare a terra per restare, coronando finalmente la loro voglia di fermarsi e godersi il loro amore. Con il mare all’orizzonte, Tiberius e Marlene vivono 14 lunghi anni assieme, apprezzando finalmente il piacere di una vita più lenta; occupandosi della casa e aiutando la donna a dimenticare il suo passato turbolento, troppo vicino alla magia e denso di traumi ben più complessi dei ricordi di pirati e mercanti del vecchio marinaio.
+
+Il destino però ha un certo senso dell’umorismo e difficilmente lascia vivere le brave persone di Roveria senza venire a bussare alla loro porta per riscuotere il proprio pagamento.
+
+Dopo tanti anni di quiete e tranquillità, in un normalissimo viaggio per [[Boldan\|Boldan]], i due si trovarono nuovamente di fronte al pericolo. Il freddo è forte anche in estate tra le lande di Roveria, ma spesso in quelle rare giornate sole, i suoi deboli raggi sono coraggiosi al punto da intrufolarsi tra le grigie coltri di nuvole e scaldare il terreno. Deboli certo, ma sufficienti a sciogliere la neve e i ghiacci quel tanto che basta per risvegliare le creature che vi riposano al di sotto. Ed è così, che in una giornata soleggiata, Krik e Marlene si trovarono faccia a faccia con un vecchio cadavere, animato dalla rabbia e dalle maledizioni, morto probabilmente annegato tra le rive di un vecchio ruscello chissà quanti anni orsono. Krik ne esce illeso, abbattendo la creatura con un vecchio ramo trovato tra la neve, ma la donna resta ferita. Inutile la corsa per [[Boldan\|Boldan]] e le cure del marinaio, la donna muore tra le sue braccia a meno di due ore dalla città, lasciando l’uomo distrutto nel suo dolore. 
+
+I pochi che lo conoscevano ai tempi delle gilde e dei giorni per mare e che ancora lo incontrano tra le strade del villaggio parlano di lui come un uomo ormai chiuso in se stesso, taciturno e freddo, che preferisce passare il proprio tempo in solitudine, ma che non disdegna di aiutare gli altri quando può.  
+Nonostante il tempo passato il fisico è ancora quello di un tempo, tenendosi in forma aiutando molti al villaggio con piccoli lavori di carpenteria e offrendo una buona spalla su cui poter contare quando c’è bisogno di un braccio forte e allenato. Non è una rarità vederlo passeggiare per il porto di [[Worldbuilding/Turdoch\|Turdoch]] guardando l’orizzonte con la sua vecchia giacca da capitano e le braccia tatuate esposte alla fredda brezza del mare. Quei fortunati che scambiano due parole con lui lo sentono raramente parlare della moglie defunta e ancora meno sono quelli che sono riusciti a scoprire qualcosa sul fazzoletto ricamato che spunta dal taschino e delle iniziali tatuate. “Mh… ricordi dolorosi” borbotta tutt’al più, prima di tornarsene a sorseggiare la sua birra e lisciarsi la barba intrecciata e ornata di piccoli frammenti di [[termocristallo\|termocristallo]], proprio come i capelli, nella più classica delle tradizioni marinare.

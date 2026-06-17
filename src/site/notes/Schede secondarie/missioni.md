@@ -19,7 +19,7 @@ Ogni missione è riconoscibile dai seguenti elementi:
 Ogni missione è caratterizzata da possibili approcci che un mercenario può scegliere per risolvere una missione e i tag che ogni missione possiede. 
 I ***tag***, sono elementi che definiscono i possibili contesti ed eventi che caratterizzano una missione, ed è possibile trovarli in: [[Schede secondarie/Tabella dei tag di missione\|Tabella dei tag di missione]] ogni tag è inserito in un contesto che può avere debolezze o forze rispetto ai tratti dei mercenari.
 
-Ogni missione può avere da uno a tre approcci possibili e sono direttamente legati alle [[statistiche\|statistiche]] dei [[Mercenari/mercenari\|mercenari]] e ai loro [[tratti\|tratti]]. Scegliendo un differente approccio, i mercenari porteranno a termine una missione affrontando specifici gruppi di tag che andranno a definire lo stile della missione.
+Ogni missione può avere da uno a tre approcci possibili e sono direttamente legati alle [[statistiche\|statistiche]] dei [[NPC/Mercenari/mercenari\|mercenari]] e ai loro [[tratti\|tratti]]. Scegliendo un differente approccio, i mercenari porteranno a termine una missione affrontando specifici gruppi di tag che andranno a definire lo stile della missione.
 
 ### **1.B - TIPI DI DURATA E SCADENZE**
 { #d8094a}
@@ -94,7 +94,7 @@ Una *missione completata* ha i seguenti output:
 - superata con bonus
 
 #### **CONSEGUENZE**
-Ogni missione determina delle conseguenze, sia per i [[Mercenari/mercenari\|mercenari]], che per il [[Worldbuilding/Roveria\|mondo di gioco]]
+Ogni missione determina delle conseguenze, sia per i [[NPC/Mercenari/mercenari\|mercenari]], che per il [[Worldbuilding/Roveria\|mondo di gioco]]
 
 ## **2 - STRUTTURA TECNICA:**
 Ogni missione è composta da due categorie di fogli di missione:

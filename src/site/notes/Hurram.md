@@ -3,7 +3,7 @@
 ---
 
 # **HURRAM**
-Attività da compiere assieme ai [[Mercenari/mercenari\|mercenari]].
+Attività da compiere assieme ai [[NPC/Mercenari/mercenari\|mercenari]].
 ## **OBIETTIVO**
 L'obiettivo dei giocatori di *Hurram* è quello di indovinare il numero esatto di ***teste*** o ***croci*** che i due giocatori otterranno lanciando a testa tre monete. 
 ## **GAME FLOW**
