@@ -33,15 +33,17 @@
     
 - ***Chiudere*** la giornata usando le [[chiavi\|chiavi]].
     
-- ***Iniziare*** la giornata ricevendo il [[giornale\|giornale]] per leggere le notizie, tra cui i risultati delle [[Schede secondarie/missioni#^29f421\|missioni completate]] e interagendo con l'[[araldo\|araldo]].
+- ***Iniziare*** la giornata ricevendo il [[giornale\|giornale]] per leggere le notizie, tra cui i risultati delle [[Schede secondarie/missioni#^29f421\|missioni completate]] e interagendo con l'[[NPC/Personaggi secondari/Maellad\|araldo]].
 
 
-### OTHER GAME ACTIION
+### OTHER GAME ACTION
 
 Oltre alle precedenti azioni, le seguenti azioni fanno parte del flusso di gioco:
   
-- **Interagire** settimanalmente con i mercanti.
+- **Interagire** settimanalmente con i [[mercanti\|mercanti]].
     
-- **Acquistare** l’equipaggiamento per i mercenari e migliorarli.
+- **Acquistare** l’[[equipaggiamento\|equipaggiamento]] per i [[NPC/Mercenari/mercenari\|mercenari]] e migliorarli.
     
 -  **Migliorare** la gilda e il suo prestigio.
+	
+-  **Utilizzare** il [[Libro Mastro\|Libro Mastro]] per gestire le info della gilda e del mondo.
