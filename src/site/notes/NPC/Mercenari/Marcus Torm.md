@@ -4,7 +4,7 @@
 
 # **MARCUS TORM**
 
-| ![FAFOC_MERCENARY_Marcus Torm.png](/img/user/FAFOC_MERCENARY_Marcus%20Torm.png) |
+| ![FAFOC_MERCENARY_Marcus Torm.png](/img/user/Immagini/FAFOC_MERCENARY_Marcus%20Torm.png) |
 | ------------------------------------ |
 ## **DATI PERSONALI**
 
@@ -15,7 +15,7 @@ LUOGO DI NASCITA: ***[[BAGHDOR\|BAGHDOR]]***
 
 ## **BACKGROUND**
 
-Marcus, 23 anni, è l’unico discendente di Marina Feiss e Lionel Torm, una delle famiglie più rinomate di [[Baghdor\|Baghdor]]. Il nome della famiglia Torm è diventato negli anni un punto di riferimento nel villaggio per tutto quello che riguarda il commercio di termocristalli e pietre preziose. Lionel Torm, il capofamiglia, è uno dei membri più stimati della [[Gilda del Conio dell’Est\|Gilda del Conio dell’Est]] e uno dei principali acquirenti della [[Gilda degli Spaccapietre\|Gilda degli Spaccapietre]] di [[Baghdor\|Baghdor]], accogliendo di buon grado il cammino tracciato dal padre Marion, famoso in città per essere stato in passato uno dei principali sostenitori della riapertura della miniera cittadina.
+Marcus, 23 anni, è l’unico discendente di Marina Feiss e Lionel Torm, una delle famiglie più rinomate di [[Baghdor\|Baghdor]]. Il nome della famiglia Torm è diventato negli anni un punto di riferimento nel villaggio per tutto quello che riguarda il commercio di [[termocristallo\|termocristalli]] e pietre preziose. Lionel Torm, il capofamiglia, è uno dei membri più stimati della [[Gilda del Conio dell’Est\|Gilda del Conio dell’Est]] e uno dei principali acquirenti della [[Gilda degli Spaccapietre\|Gilda degli Spaccapietre]] di [[Baghdor\|Baghdor]], accogliendo di buon grado il cammino tracciato dal padre Marion, famoso in città per essere stato in passato uno dei principali sostenitori della riapertura della miniera cittadina.
 
 Il passato di Marina Feiss è assai più turbolento, ma la sua forza d’animo l’ha aiutata a forgiare una donna indipendente e sicura di sé, che ha imparato presto a sfruttare le situazioni a proprio vantaggio pur di tirare fuori la testa dal degrado. Ha passato anni tra le bettole e le taverne di [[Worldbuilding/Roveria\|Roveria]] dietro ai commerci fallimentari del padre ed è fiera di come grazie ai suoi sforzi sia riuscita ad accaparrarsi il miglior matrimonio del villaggio.  
   
