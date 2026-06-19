@@ -46,4 +46,4 @@ Oltre alle precedenti azioni, le seguenti azioni fanno parte del flusso di gioco
     
 -  **Migliorare** la gilda e il suo prestigio.
 	
--  **Utilizzare** il [[Libro Mastro\|Libro Mastro]] per gestire le info della gilda e del mondo.
+-  **Utilizzare** il [[Gameplay/Schede secondarie/Libro Mastro\|Libro Mastro]] per gestire le info della gilda e del mondo.
