@@ -5,8 +5,6 @@
 
   if (sessionStorage.getItem(KEY) === "ok") return;
 
-  document.documentElement.style.visibility = "hidden";
-
   const overlay = document.createElement("div");
   overlay.innerHTML = `
     <div style="
@@ -15,7 +13,7 @@
       font-family:monospace;z-index:99999;
     ">
       <div style="text-align:center;width:300px;">
-        <p style="color:#888;font-size:12px;letter-spacing:.08em;margin:0 0 .3rem">🌱 digital garden</p>
+        <p style="color:#888;font-size:12px;letter-spacing:.08em;margin:0 0 .3rem">FOR A FISTFUL OF COINS</p>
         <p style="color:#e8e8e8;font-size:18px;margin:0 0 1.8rem">accesso riservato</p>
         <input id="dg-pwd" type="password" placeholder="parola chiave"
           style="width:100%;box-sizing:border-box;background:#2a2a2a;border:.5px solid #444;
@@ -30,7 +28,6 @@
       </div>
     </div>`;
   document.body.appendChild(overlay);
-  document.documentElement.style.visibility = "visible";
 
   function check() {
     if (document.getElementById("dg-pwd").value === PASSWORD) {
@@ -39,11 +36,3 @@
     } else {
       document.getElementById("dg-err").textContent = "parola chiave errata.";
     }
-  }
-
-  document.getElementById("dg-btn").addEventListener("click", check);
-  document.getElementById("dg-pwd").addEventListener("keydown", e => {
-    if (e.key === "Enter") check();
-  });
-})();
-</script>
