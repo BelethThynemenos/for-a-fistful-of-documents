@@ -1,34 +1,53 @@
 <script>
 (function () {
   const PASSWORD = "Taverniere00";
+  const KEY = "dg_access";
+
+  if (sessionStorage.getItem(KEY) === "ok") {
+    document.addEventListener("DOMContentLoaded", function() {
+      document.body.style.visibility = "visible";
+    });
+    return;
+  }
+
+  document.body.style.visibility = "hidden";
+
+  const link = document.createElement("link");
+  link.rel = "stylesheet";
+  link.href = "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap";
+  document.head.appendChild(link);
 
   const overlay = document.createElement("div");
   overlay.innerHTML = `
     <div style="
       position:fixed;inset:0;background:#1a1a1a;
       display:flex;align-items:center;justify-content:center;
-      font-family:monospace;z-index:99999;
+      font-family:'Montserrat',sans-serif;z-index:99999;
     ">
       <div style="text-align:center;width:300px;">
-        <p style="color:#888;font-size:12px;letter-spacing:.08em;margin:0 0 .3rem">FOR A FISTFUL OF COINS</p>
-        <p style="color:#e8e8e8;font-size:18px;margin:0 0 1.8rem">password richiesta</p>
+        <p style="color:#F5C430;font-size:12px;letter-spacing:.08em;margin:0 0 .3rem">FOR A FISTFUL OF COINS</p>
+        <p style="color:#e8e8e8;font-size:18px;margin:0 0 1.8rem">accesso riservato</p>
         <input id="dg-pwd" type="password" placeholder="parola chiave"
           style="width:100%;box-sizing:border-box;background:#2a2a2a;border:.5px solid #444;
-          border-radius:6px;color:#e8e8e8;font-family:monospace;font-size:14px;
+          border-radius:6px;color:#e8e8e8;font-family:'Montserrat',sans-serif;font-size:14px;
           padding:10px 14px;text-align:center;letter-spacing:.1em;outline:none;margin-bottom:10px;" />
         <button id="dg-btn"
           style="width:100%;background:#2a2a2a;border:.5px solid #555;border-radius:6px;
-          color:#ccc;font-family:monospace;font-size:13px;padding:10px;cursor:pointer;">
+          color:#ccc;font-family:'Montserrat',sans-serif;font-size:13px;padding:10px;cursor:pointer;">
           entra →
         </button>
         <p id="dg-err" style="color:#c0392b;font-size:12px;margin-top:10px;min-height:16px;"></p>
       </div>
     </div>`;
+
+  document.body.style.visibility = "visible";
   document.body.appendChild(overlay);
 
   function check() {
     if (document.getElementById("dg-pwd").value === PASSWORD) {
+      sessionStorage.setItem(KEY, "ok");
       overlay.remove();
+      document.body.style.visibility = "visible";
     } else {
       document.getElementById("dg-err").textContent = "parola chiave errata.";
     }
