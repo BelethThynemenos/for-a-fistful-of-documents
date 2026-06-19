@@ -5,7 +5,7 @@
 # **TAVERNIERE**
 *L'EX MERCENARIO*
 
-| ![FAFOC_NPC_Taverniere.png](/img/user/FAFOC_NPC_Taverniere.png) |
+| ![FAFOC_NPC_Taverniere.png](/img/user/Immagini/FAFOC_NPC_Taverniere.png) |
 | ----------------------------- |
 ## **DATI PERSONALI**
 
