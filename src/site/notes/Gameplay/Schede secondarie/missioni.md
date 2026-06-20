@@ -5,72 +5,79 @@
 # **MISSIONI**
 
 Le missioni sono la principale forma di [[Gameplay/Schede secondarie/missioni#^1bb2f6\|guadagno]] della gilda.
-Rappresentano le richieste di aiuto provenienti dai richiedenti che raggiungono il giocatore da tutti i [[villaggi\|villaggi]] di [[Worldbuilding/Sistema Tarelliano/Roveria\|Roveria]]
+Rappresentano le richieste di aiuto provenienti dai [[Gameplay/Schede secondarie/missioni#**1.C - TIPI DI RICHIEDENTE DI MISSIONE**\|richiedenti]] che raggiungono il giocatore da tutti i villaggi di [[Worldbuilding/Sistema Tarelliano/Roveria\|Roveria]].
 # ELEMENTI CARATTERISTICI
 ## **1 - STRUTTURA LOGICA**
 Ogni missione è riconoscibile dai seguenti elementi:
-- [[Gameplay/Schede secondarie/missioni#^29f421\|Tipo di missione]]
+- [[Gameplay/Schede secondarie/missioni#^29f42\|Tipi di missione]]
 - [[Gameplay/Schede secondarie/missioni#^d8094a\|Tipi di durata e scadenze]]
-- [[Gameplay/Schede secondarie/missioni#^6df22a\|Tipo di richiedente di missione]]
-- [[Gameplay/Schede secondarie/missioni#^29f421\|Tipo di ramificazioni e risultati]]
-###  **1.A - TIPI DI MISSIONE**
-{ #29f421}
+- [[Gameplay/Schede secondarie/missioni#**1.C - TIPI DI RICHIEDENTE DI MISSIONE**\|Tipi di richiedente di missione]]
+- [[Gameplay/Schede secondarie/missioni#**1.D - TIPI DI RAMIFICAZIONI E RISULTATI**\|Tipo di ramificazioni e risultati]]
+### **1.A - TIPI DI MISSIONE**
+{ #29f42}
 
-Ogni missione è caratterizzata da possibili approcci che un mercenario può scegliere per risolvere una missione e i tag che ogni missione possiede. 
-I ***tag***, sono elementi che definiscono i possibili contesti ed eventi che caratterizzano una missione, ed è possibile trovarli in: [[Gameplay/Schede secondarie/Tabella dei tag di missione\|Tabella dei tag di missione]] ogni tag è inserito in un contesto che può avere debolezze o forze rispetto ai tratti dei mercenari.
+Ogni missione è caratterizzata dai ***tag***.
+I ***tag***, sono elementi che definiscono parametricamente i possibili contesti ed eventi che caratterizzano una missione, ed è possibile trovarli in versione completa nella [[Gameplay/Schede secondarie/Tabella dei tag di missione\|Tabella dei tag di missione]].
+Ogni ***tag*** è pensato per essere messo in contrapposizione ai [[tratti\|tratti]] dei [[NPC/Mercenari/mercenari\|mercenari]] e determina i [[Gameplay/Schede secondarie/missioni#**1.D - TIPI DI RAMIFICAZIONI E RISULTATI**\|risultati]] che un mercenario otterrà in quella missione. Ogni ***tag*** infatti ha, rispetto a ogni [[tratti\|tratto]], un rapporto di debolezza o di forza, che determina di quanto la prova totale viene influenzata rispetto al successo.  
 
-Ogni missione può avere da uno a tre approcci possibili e sono direttamente legati alle [[statistiche\|statistiche]] dei [[NPC/Mercenari/mercenari\|mercenari]] e ai loro [[tratti\|tratti]]. Scegliendo un differente approccio, i mercenari porteranno a termine una missione affrontando specifici gruppi di tag che andranno a definire lo stile della missione.
+Ogni missione può avere da uno a tre approcci possibili e sono direttamente legati alle [[statistiche\|statistiche]] dei [[NPC/Mercenari/mercenari\|mercenari]] e ai loro [[tratti\|tratti]]. Ogni approccio possibile determinerà un differente set di ***tag*** che la missione possiederà e una conseguente differenza nel calcolo dei risultati.
 
 ### **1.B - TIPI DI DURATA E SCADENZE**
 { #d8094a}
 
-determinano i tipi di durata che le missioni possiedono e la durata massima che una missione resterà sulla mappa
+Ogni missione è caratterizzata a livello temporale da due fattori, quello di durata e quello di scadenza.
 
 #### **1.B.a - DURATA**
+La durata di una missione è relativa al tempo che il mercenario impiegherà per svolgere la missione una volta assegnatagli ed esistono due categorie principali:
 
 - **Missioni cittadine**
 { #a81c58}
 
-	- Sono le missioni che si svolgono all'interno delle mappe cittadine, vengono completate tutte durante la stessa giornata di gioco e possono essere completate usando da 2 a 4 [[azioni\|azioni]] per mercenario.
+	- Sono le missioni che si svolgono all'interno delle mappe cittadine, sono da considerarsi come missioni da portare a termine durante la stessa giornata di gioco e possono essere completate usando da 1 a X [[azioni\|azioni]] per [[NPC/Mercenari/mercenari\|mercenario]]. Ogni volta che viene completata una missione cittadina, viene riconsegnato alla gilda un [[report\|report]] con le informazioni relative ai risultati.
 	
 - **Missioni regionali**
 { #29f423}
 
-	- Sono le missioni che si svolgono al di fuori della mappa della città, sfruttando la mappa di [[Worldbuilding/Sistema Tarelliano/Roveria\|Roveria]], le missioni regionali possono essere completate in un tempo compreso tra 1 e X giorni e vengono sempre mostrate sul [[giornale\|giornale]] una volta completate.
+	- Sono le missioni che si svolgono al di fuori della mappa della città, tra le città di [[Worldbuilding/Sistema Tarelliano/Roveria\|Roveria]], le missioni regionali possono essere portate a termine in un tempo compreso tra 1 e X giorni e vengono sempre mostrate sul [[giornale\|giornale]] una volta completate. 
 
 #### **1.B.b - SCADENZA**
-Ogni volta che una missione supera il proprio tempo limite essa verrà rimossa dalla mappa e categorizzata come ***non completata*** dal giocatore.
+Ogni missione possiede un tempo limite entro in cui deve essere completata. Se una missione non viene completata entro il tempo richiesto, la missione verrà considerata come ***non completata*** e conseguentemente rimossa dalla mappa.
 
 I possibili risultati per una [[Gameplay/Schede secondarie/missioni#^29f423\|missione regionale]] scaduta e non completata dal giocatore sono:
-- Fallita - sul [[giornale\|giornale]] verrà mostrato il risultato fallimentare della missione.
-- Completata da una gilda rivale - in questo caso verrà mostrato sul [[giornale\|giornale]] il risultato positivo della missione, con riferimento a quale gilda ha completato la missione.
+
+- **Fallita** - sul [[giornale\|giornale]] verrà mostrato il risultato fallimentare della missione.
+- **Completata da una gilda rivale** - in questo caso verrà mostrato sul [[giornale\|giornale]] il risultato positivo della missione, con riferimento a quale gilda ha completato la missione.
 
 I possibili risultati per una [[Gameplay/Schede secondarie/missioni#^a81c58\|missione cittadina]] scaduta e non completata dal giocatore sono:
-- Fallita - scompare dalla mappa e il giocatore riceve un [[report\|report]] fallimentare dall'[[Araldo\|Araldo]]
-### **1.C - TIPI DI RICHIEDENTE DI MISSIONE**
-{ #6df22a}
+- **Fallita** - scompare dalla mappa e il giocatore riceve un [[report\|report]] fallimentare dall'[[Araldo\|Araldo]].
 
+### **1.C - TIPI DI RICHIEDENTE DI MISSIONE** 
 determinano i tipi di npc che richiedono aiuto alla gilda per la risoluzione di una missione.
 I possibili tipi di richiedente di missione sono:
-- Cittadini semplici
-- Cittadini borghesi
-- Guardie cittadine
-- Gilde
-- Podestà e conestabili
-- Chierici e persone di chiesa
+
+- *Cittadini semplici*;
+- *Cittadini borghesi*;
+- *Guardie cittadine*;
+- *Gilde*;
+- *Podestà e conestabili*;
+- *Chierici e persone di chiesa*;
 
 A seconda del richiedente di missione vengono definiti i seguenti parametri:
 - un quantitativo massimo di monete guadagnate
 - un registro lessicale
+{ #2a99d1}
+
 - una differente qualità del foglio di missione
 
 ##### ***1.C.a - Guadagno***
 { #1bb2f6}
 
 La principale ricompensa per il completamento di una missione è il guadagno.
-Ogni categoria di richiedente di missione è definita da una tabella di guadagni possibli per singola missione 
+Ogni categoria di richiedente di missione è definita da una [[Gameplay/Schede secondarie/missioni#^424e33\|tabella]] di guadagni possibili per singola missione. 
 ##### ***1.C.b - Monete***
-I giocatori possono guadagnare dalle missioni due tipi di monete, quelle in oro e quelle in argento - m.o. - m.a. Ogni 10 monete d'argento si ottiene il valore di 1 monete d'oro
+I giocatori possono guadagnare dalle missioni due tipi di monete, quelle in oro e quelle in argento.
+***m.o. - m.a.***
+Ogni 10 monete d'argento si ottiene il valore di 1 monete d'oro
 
 | **Richiedenti**              | **Range di guadagno** |
 | ---------------------------- | --------------------- |
@@ -79,25 +86,71 @@ I giocatori possono guadagnare dalle missioni due tipi di monete, quelle in oro 
 | Guardie cittadine            | 1 argento - 30 oro    |
 | Gilde                        | 20 oro - 150 oro      |
 | Podestà e conestabili        | 30 oro - 500 oro      |
-| Chierici e persone di chiesa | 1 argento - 500 oro   |
+| Chierici e persone di chiesa | 1 argento - 500 oro   |{ #424e33}
 
-###  **1.D - TIPI DI RAMIFICAZIONI E RISULTATI**
-{ #29f421}
-
-a seconda dei vari risultati ottenuti da un mercenario durante lo svolgimento di una missione, questo determinerà come alcune missioni possano ramificarsi in ulteriori *quests* da portare a termine, connesse direttamente al successo o al fallimento delle stesse.
-
+###  **1.D - TIPI DI RAMIFICAZIONI E RISULTATI** 
+A seconda dei vari risultati ottenuti da un [[NPC/Mercenari/mercenari\|mecenario]] durante lo svolgimento di una missione, questo determinerà come alcune missioni possano ramificarsi in ulteriori *quests* da portare a termine, connesse direttamente al successo o al fallimento delle stesse.
+#### **1.D.a - RISULTATI**
 Una *missione completata* ha i seguenti output:
+
 - fallita con conseguenza
 - fallita
 - superata con conseguenza
 - superata
 - superata con bonus
 
-#### **CONSEGUENZE**
-Ogni missione determina delle conseguenze, sia per i [[NPC/Mercenari/mercenari\|mercenari]], che per il [[Worldbuilding/Sistema Tarelliano/Roveria\|mondo di gioco]]
+#### **1.D.b - CONSEGUENZE E BONUS**
+Ogni missione determina delle conseguenze, sia per i [[NPC/Mercenari/mercenari\|mercenari]], che per il [[Worldbuilding/Sistema Tarelliano/Roveria\|mondo di gioco]].
+
+##### FALLITA CON CONSEGUENZA
+Una missione ***fallita con conseguenza*** ha le seguenti caratteristiche:
+
+- In base ai ***tag*** della missione un mercenario guadagna il tratto [[ferita\|ferita]] o il tratto [[trauma\|trauma]] in relazione alle macro categorie di tag e approcci.
+- Il mercenario ha una probabilità del 50% di perdere il proprio [[equipaggiamento\|equipaggiamento]] se ne possiede uno
+- Il mercenario non riporta [[Gameplay/Schede secondarie/missioni#***1.C.a - Guadagno*** 1bb2f6\|monete]] dalla missione.
+- La missione viene mostrata sul [[giornale\|giornale]] o sul [[report\|report]] come ***fallita*** in base alla [[Gameplay/Schede secondarie/missioni#**1.A - TIPI DI MISSIONE** 29f42\|tipologia di missione]].
+- La missione avanza, se ne possiede uno, sul proprio [[ramo narrativo\|ramo narrativo]].
+
+##### FALLITA
+Una missione ***fallita*** ha le seguenti caratteristiche:
+
+- La missione viene mostrata sul [[giornale\|giornale]] o sul [[report\|report]] come fallita in base alla [[Gameplay/Schede secondarie/missioni#**1.A - TIPI DI MISSIONE** 29f42\|tipologia di missione]].
+- Il mercenario ha una probabilità del 25% di perdere il proprio [[equipaggiamento\|equipaggiamento]] se ne possiede uno
+- Il mercenario non riporta [[Gameplay/Schede secondarie/missioni#***1.C.a - Guadagno*** 1bb2f6\|monete]] dalla missione.
+- La missione avanza, se ne possiede uno, sul proprio [[ramo narrativo\|ramo narrativo]].
+  
+##### SUPERATA CON CONSEGUENZA
+Una missione ***superata con conseguenza*** ha le seguenti caratteristiche:
+
+- In base ai ***tag*** della missione un mercenario guadagna il tratto [[ferita\|ferita]] o il tratto [[trauma\|trauma]] in relazione alle macro categorie di tag e approcci.
+- Il mercenario ha una probabilità del 15% di perdere il proprio [[equipaggiamento\|equipaggiamento]] se ne possiede uno
+- Il mercenario ha una probabilità del 25% di riportare tra il 50% e il 70% delle [[Gameplay/Schede secondarie/missioni#***1.C.a - Guadagno*** 1bb2f6\|monete]] previste dalla missione.
+- La missione viene mostrata sul [[giornale\|giornale]] o sul [[report\|report]] come ***superata*** in base alla [[Gameplay/Schede secondarie/missioni#**1.A - TIPI DI MISSIONE** 29f42\|tipologia di missione]].
+- La missione avanza, se ne possiede uno, sul proprio [[ramo narrativo\|ramo narrativo]].
+
+##### SUPERATA
+Una missione ***superata*** ha le seguenti caratteristiche:
+
+- La missione viene mostrata sul [[giornale\|giornale]] o sul [[report\|report]] come ***superata*** in base alla [[Gameplay/Schede secondarie/missioni#**1.A - TIPI DI MISSIONE** 29f42\|tipologia di missione]].
+- Il mercenario riporta il 100% delle [[Gameplay/Schede secondarie/missioni#***1.C.a - Guadagno*** 1bb2f6\|monete]] previste dalla missione.
+- La missione avanza, se ne possiede uno, sul proprio [[ramo narrativo\|ramo narrativo]].
+
+##### SUPERATA CON BONUS
+Una missione ***superata con bonus*** ha le seguenti caratteristiche:
+
+- La missione viene mostrata sul [[giornale\|giornale]] o sul [[report\|report]] come ***superata*** in base alla [[Gameplay/Schede secondarie/missioni#**1.A - TIPI DI MISSIONE** 29f42\|tipologia di missione]].
+- Il mercenario riporta il 120% delle [[Gameplay/Schede secondarie/missioni#***1.C.a - Guadagno*** 1bb2f6\|monete]] previste dalla missione.
+- Il mercenario riporta un'item se la missione possiede il [[tag dono\|tag dono]].
+- La missione avanza, se ne possiede uno, sul proprio [[ramo narrativo\|ramo narrativo]].
+
+
+
+
+
 
 ## **2 - STRUTTURA TECNICA:**
 Ogni missione è composta da due categorie di fogli di missione:
+
 - Pagine di descrizione
 - Pagine illustrate
 
