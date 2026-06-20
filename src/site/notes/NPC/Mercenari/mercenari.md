@@ -32,16 +32,19 @@ Ogni mercenario è definito da un set di otto statistiche che definiscono l'enti
 ### **2.A - STATISTICHE DEI MERCENARI**
 Le statistiche sono otto categorie che determinano come il mercenario approccia le missione e quali tipi di tratti gli sono assegnati e vengono utilizzati.
 
-- **FORTUNA**
-- **FEDE**
-- **FORZA**
-- **DESTREZZA**
-- **INTELLIGENZA**
-- **CARISMA**
-- **TEMPRA**
-- **SANITÀ**
+| **FORTUNA**      | **FEDE**      |
+| ---------------- | ------------- |
+| **FORZA**        | **DESTREZZA** |
+| **INTELLIGENZA** | **CARISMA**   |
+| **TEMPRA**       | **SANITÀ**    |
 
 Ogni statistica è definita da due valori:
 - Valore di capacità
-- Valore di apprezzamento
+	Il valore di capacità determina la capacità effettiva di un mercenario in un determinato campo di competenza, influenzando la sua effettiva capacità di superare una missione, affrontando i tag.
 
+- Valore di apprezzamento
+	Il valore di apprezzamento determina l'interesse di un mercenario verso il rispettivo campo di competenza e permette al mercenario di scegliere un approccio più vicino al proprio interesse durante lo svolgimento di una missione.
+
+Questa diventa quindi la rappresentazione visiva di apprezzamento e capacità di un mercenario rispetto alle proprie statistiche.
+
+![newplot (1).png](/img/user/Immagini/newplot%20(1).png)
