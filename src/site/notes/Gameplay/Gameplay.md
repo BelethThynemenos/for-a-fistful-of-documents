@@ -9,9 +9,9 @@
     
 - ***Interagire*** con gli eventuali [[npc\|npc]] e [[mercanti\|mercanti]] che si presentano alla gilda.
     
-- ***Dialogare*** con i nuovi [[NPC/Mercenari/mercenari\|mercenari]] per introdurli alla gilda o con i [[NPC/Mercenari/mercenari\|mercenari]] rientrati dalle [[Gameplay/Schede secondarie/missioni#^29f423\|missioni regionali]] ottenendo feedback dai mercenari e le [[Gameplay/Schede secondarie/missioni#^1bb2f6\|monete guadagnate]] delle missioni completate.
+- ***Dialogare*** con i nuovi [[NPC/Mercenari/mercenari\|mercenari]] per introdurli alla gilda o con i [[NPC/Mercenari/mercenari\|mercenari]] rientrati dalle [[Gameplay/Missioni/missioni#^29f423\|missioni regionali]] ottenendo feedback dai mercenari e le [[Gameplay/Missioni/missioni#^1bb2f6\|monete guadagnate]] delle missioni completate.
     
-- ***Aprire*** la [[mappa\|mappa]] per visualizzare le [[Gameplay/Schede secondarie/missioni\|missioni]] [[Gameplay/Schede secondarie/missioni#^a81c58\|cittadine]]. e [[Gameplay/Schede secondarie/missioni#^29f423\|regionali]].
+- ***Aprire*** la [[mappa\|mappa]] per visualizzare le [[Gameplay/Missioni/missioni\|missioni]] [[Gameplay/Missioni/missioni#^a81c58\|cittadine]]. e [[Gameplay/Missioni/missioni#^29f423\|regionali]].
     
 - ***Leggere*** le descrizioni delle [[missioni disponibili.\|missioni disponibili.]]
     
@@ -19,11 +19,11 @@
     
 - ***Attendere*** il [[tempo di missione\|tempo di missione]], visualizzabile sulla [[mappa\|mappa]]
     
-- ***Leggere*** il [[report\|report]] per visualizzare i risultati delle [[missioni cittadine\|missioni cittadine]].
+- ***Leggere*** il [[Gameplay/Missioni/report\|report]] per visualizzare i risultati delle [[missioni cittadine\|missioni cittadine]].
     
 - ***Chiusura*** della gilda con lo spegnimento della [[Gameplay/Schede secondarie/lanterna\|lanterna]].
     
-- ***Interagire*** con gli eventuali mercenari rientrati [[prematuramente\|prematuramente]] dalle [[Gameplay/Schede secondarie/missioni#^29f423\|missioni regionali]].
+- ***Interagire*** con gli eventuali mercenari rientrati [[prematuramente\|prematuramente]] dalle [[Gameplay/Missioni/missioni#^29f423\|missioni regionali]].
 	
 - ***Interagire*** con gli eventuali npc che consegnano [[missioni impreviste\|missioni impreviste]] o con i [[mercanti serali.\|mercanti serali.]]
 	
@@ -33,7 +33,7 @@
     
 - ***Chiudere*** la giornata usando le [[chiavi\|chiavi]].
     
-- ***Iniziare*** la giornata ricevendo il [[giornale\|giornale]] per leggere le notizie, tra cui i risultati delle [[Gameplay/Schede secondarie/missioni#^29f421\|missioni completate]] e interagendo con l'[[NPC/Personaggi secondari/Maellad\|araldo]].
+- ***Iniziare*** la giornata ricevendo il [[giornale\|giornale]] per leggere le notizie, tra cui i risultati delle [[Gameplay/Missioni/missioni#^29f421\|missioni completate]] e interagendo con l'[[NPC/Personaggi secondari/Maellad\|araldo]].
 
 
 ### OTHER GAME ACTION
