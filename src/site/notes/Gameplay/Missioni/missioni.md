@@ -13,6 +13,7 @@ Ogni missione è riconoscibile dai seguenti elementi:
 - [[Gameplay/Missioni/missioni#^d8094a\|Tipi di durata e scadenze]]
 - [[Gameplay/Missioni/missioni#**1.C - TIPI DI RICHIEDENTE DI MISSIONE**\|Tipi di richiedente di missione]]
 - [[Gameplay/Missioni/missioni#**1.D - TIPI DI RAMIFICAZIONI E RISULTATI**\|Tipo di ramificazioni e risultati]]
+
 ### **1.A - TIPI DI MISSIONE - TAG**
 { #29f42}
 
@@ -23,26 +24,35 @@ I tag si dividono in due macro categorie:
 - [[Gameplay/Missioni/missioni#**1.A.a - TAG APPROCCIO**\|Tag approccio]]
 - [[Gameplay/Missioni/missioni#**1.A.b - TAG CONTESTO**\|Tag contesto]]
 
-Ogni ***tag*** è pensato per essere messo in contrapposizione ai [[tratti\|tratti]] dei [[NPC/Mercenari/mercenari\|mercenari]] e determina i [[Gameplay/Missioni/missioni#**1.D - TIPI DI RAMIFICAZIONI E RISULTATI**\|risultati]] che un mercenario otterrà in quella missione. Ogni ***tag*** infatti ha, rispetto a ogni [[tratti\|tratto]], un rapporto di debolezza o di forza, che determina di quanto la prova totale viene influenzata rispetto al successo.  
+Ogni ***tag*** è pensato per essere messo in contrapposizione ai [[NPC/Mercenari/mercenari#**2.B - TRATTI DEI MERCENARI**\|tratti]] e alle [[NPC/Mercenari/mercenari#**2.A - STATISTICHE DEI MERCENARI**\|statistiche]] dei mercenari e determina i [[Gameplay/Missioni/missioni#**1.D - TIPI DI RAMIFICAZIONI E RISULTATI**\|risultati]] che un mercenario otterrà in quella missione. Ogni ***tag*** infatti ha, rispetto a ogni statistica e tratto un rapporto di debolezza o di forza, che determina di quanto la prova totale viene influenzata rispetto al successo.  
 
-Ogni missione può avere da uno a tre approcci possibili e sono direttamente legati alle [[statistiche\|statistiche]] dei [[NPC/Mercenari/mercenari\|mercenari]] e ai loro [[tratti\|tratti]]. Ogni approccio possibile determinerà un differente set di ***tag***, ovvero una ***categoria*** che la missione possiederà e una conseguente differenza nel calcolo dei risultati.
+Ogni missione può avere da uno a tre approcci possibili, definite ***CATEGORIE***.
+Ogni categoria determina un differente set di ***tag*** e una conseguente differenza nel calcolo dei risultati.
 
-##### **1.A.a - TAG APPROCCIO**
-I tag approccio definiscono il modo in cui una missione deve essere affrontata. Ad esempio una trattativa diplomatica con dei prigionieri potrebbe possedere sia l'approccio "*dialogo*" che l'appoccio "*combattimento*". Ogni serie di tag approccio è definita ***categoria***.
+#### **1.A.a - TAG APPROCCIO**
+I tag approccio definiscono il modo in cui una missione deve essere affrontata. Ad esempio una trattativa diplomatica con dei prigionieri potrebbe possedere sia tag approccio di tipo "*dialogo*" che tag approccio di tipo "*combattimento*". Ogni serie di tag approccio è definita ***categoria***.
 
-##### **1.A.b - TAG CONTESTO**
+#### **1.A.b - TAG CONTESTO**
 I tag contesto invece danno informazioni sugli elementi di contesto di una missione. 
 Ad esempio una trattativa diplomatica con dei prigionieri potrebbe possedere i tratti:
 - prigionieri
 - miniera
 - riscatto
 - notte
-##### **1.A.C - BIVIO RISOLUTIVO**
+
+#### **1.A.C - BIVIO RISOLUTIVO**
 
 
 ![Bivio risolutivo.png](/img/user/Immagini/Bivio%20risolutivo.png)
 
+#### **1.A.d - PESO DEI TAG**
+Ogni tag possiede un peso differente all'interno del calcolo del risultato.
+I tag che hanno maggiore priorità sono quelli che riguardano direttamente i [[NPC/Mercenari/mercenari#**2.B.b - TRATTI SPECIALI**\|tratti speciali]] dei mercenari, tirando in gioco paure, abilità speciali e odi.
 
+Ogni tag può inoltre avere un peso maggiorato all'interno di una missione, richiedendo maggiori abilità per essere superato, così come una categoria. Il peso dei vari tag determina quindi la difficoltà di ogni missione per quanto riguarda le singole categorie.
+
+Il peso di una categoria e di un tag possono quindi portare a situazioni tipo:
+	*missione di salvataggio: categoria dialogo preferibile a categoria combattimento, nella categoria combattimento, il tag combattimento ha un peso più alto rispetto al tag stealth.*
 
 ### **1.B - TIPI DI DURATA E SCADENZE**
 { #d8094a}
@@ -111,71 +121,69 @@ Ogni 10 monete d'argento si ottiene il valore di 1 monete d'oro
 | Chierici e persone di chiesa | 1 argento - 500 oro   |{ #424e33}
 
 ###  **1.D - TIPI DI RAMIFICAZIONI E RISULTATI** 
-A seconda dei vari risultati ottenuti da un [[NPC/Mercenari/mercenari\|mecenario]] durante lo svolgimento di una missione, questo determinerà come alcune missioni possano ramificarsi in ulteriori *quests* da portare a termine, connesse direttamente al successo o al fallimento delle stesse.
-
-Il risultato di una missione viene ottenuto mettendo a confronto i tag di una missione contro i [[NPC/Mercenari/mercenari#**2.B - TRATTI DEI MERCENARI**\|tratti]] e le [[NPC/Mercenari/mercenari#**2.A - STATISTICHE DEI MERCENARI**\|statistiche di un mercenario]].
-	 Valore statistiche + valore di ogni tratto usato = capacità mercenario
-	  
+A seconda dei vari risultati ottenuti da un [[NPC/Mercenari/mercenari\|mercenario]] durante lo svolgimento di una missione, questo determinerà come alcune missioni possano ramificarsi in ulteriori *quests* da portare a termine, connesse direttamente al successo o al fallimento delle stesse.
+  
 #### **1.D.a - RISULTATI**
+Il risultato di una missione viene ottenuto mettendo a confronto i tag di una missione contro i [[NPC/Mercenari/mercenari#**2.B - TRATTI DEI MERCENARI**\|tratti]]e le [[NPC/Mercenari/mercenari#**2.A - STATISTICHE DEI MERCENARI**\|statistiche di un mercenario]].
+
 Una *missione completata* ha i seguenti output:
 
-- fallita con conseguenza
-- fallita
-- superata con conseguenza
-- superata
-- superata con bonus
+- [[Gameplay/Missioni/missioni#**1.D.b.1 -FALLITA CON CONSEGUENZA**\|fallita con conseguenza]]
+- [[Gameplay/Missioni/missioni#**1.D.b.2 - FALLITA**\|fallita]]
+- [[Gameplay/Missioni/missioni#**1.D.b.3 - SUPERATA CON CONSEGUENZA**\|superata con conseguenza]]
+- [[Gameplay/Missioni/missioni#**1.D.b.4 - SUPERATA**\|superata]]
+- [[Gameplay/Missioni/missioni#**1.D.b.5 - SUPERATA CON BONUS**\|superata con bonus]]
 
 #### **1.D.b - CONSEGUENZE E BONUS**
 Ogni missione determina delle conseguenze, sia per i [[NPC/Mercenari/mercenari\|mercenari]], che per il [[Worldbuilding/Sistema Tarelliano/Roveria\|mondo di gioco]].
 
-##### FALLITA CON CONSEGUENZA
+##### **1.D.b.1 -FALLITA CON CONSEGUENZA**
 Una missione ***fallita con conseguenza*** ha le seguenti caratteristiche:
 
-- In base ai ***tag*** della missione un mercenario guadagna il tratto [[ferita\|ferita]] o il tratto [[trauma\|trauma]] in relazione alle macro categorie di tag e approcci.
-- Il tratto [[ferita\|ferita]] o [[trauma\|trauma]] assegnano un valore compreso tra -2 e -3 al rapporto di [[NPC/Mercenari/mercenari#**2.A.a - AFFINITÀ**\|affinità]].
+- In base ai ***tag*** della missione un mercenario guadagna il tratto [[NPC/Mercenari/mercenari#**2.D - STATO**\|ferita]] o il tratto [[NPC/Mercenari/mercenari#**2.D - STATO**\|trauma]] in relazione alle Categorie.
+- Il tratto [[NPC/Mercenari/mercenari#**2.D - STATO**\|ferita]] o [[NPC/Mercenari/mercenari#**2.D - STATO**\|trauma]] assegnano un valore compreso tra -2 e -3 al rapporto di [[NPC/Mercenari/mercenari#**2.C - AFFINITÀ**\|affinità]].
 - Il mercenario ha una probabilità del 50% di perdere il proprio [[equipaggiamento\|equipaggiamento]] se ne possiede uno
 - Il mercenario non riporta [[Gameplay/Missioni/missioni#***1.C.a - Guadagno*** 1bb2f6\|monete]] dalla missione.
 - La missione viene mostrata sul [[giornale\|giornale]] o sul [[Gameplay/Missioni/report\|report]] come ***fallita*** in base alla [[Gameplay/Missioni/missioni#**1.A - TIPI DI MISSIONE** 29f42\|tipologia di missione]].
-- La missione avanza, se ne possiede uno, sul proprio [[ramo narrativo\|ramo narrativo]].
+- La missione avanza, se ne possiede uno, sul proprio [[Gameplay/Missioni/missioni#**1.D.C - RAMO NARRATIVO**\|ramo narrativo]].
 
-##### FALLITA
+##### **1.D.b.2 - FALLITA**
 Una missione ***fallita*** ha le seguenti caratteristiche:
 
 - La missione viene mostrata sul [[giornale\|giornale]] o sul [[Gameplay/Missioni/report\|report]] come fallita in base alla [[Gameplay/Missioni/missioni#**1.A - TIPI DI MISSIONE** 29f42\|tipologia di missione]].
 - Il mercenario ha una probabilità del 25% di perdere il proprio [[equipaggiamento\|equipaggiamento]] se ne possiede uno
 - Il mercenario non riporta [[Gameplay/Missioni/missioni#***1.C.a - Guadagno*** 1bb2f6\|monete]] dalla missione.
-- La missione avanza, se ne possiede uno, sul proprio [[ramo narrativo\|ramo narrativo]].
+- La missione avanza, se ne possiede uno, sul proprio [[Gameplay/Missioni/missioni#**1.D.C - RAMO NARRATIVO**\|ramo narrativo]].
   
-##### SUPERATA CON CONSEGUENZA
+##### **1.D.b.3 - SUPERATA CON CONSEGUENZA**
 Una missione ***superata con conseguenza*** ha le seguenti caratteristiche:
 
-- In base ai ***tag*** della missione un mercenario guadagna il tratto [[ferita\|ferita]] o il tratto [[trauma\|trauma]] in relazione alle macro categorie di tag e approcci.
-- Il tratto [[ferita\|ferita]] o [[trauma\|trauma]] assegnano un valore compreso tra -1 e -2 al rapporto di [[NPC/Mercenari/mercenari#**2.A.a - AFFINITÀ**\|affinità]].
-- Il mercenario ha una probabilità del 15% di perdere il proprio [[equipaggiamento\|equipaggiamento]] se ne possiede uno
+- In base ai ***tag*** della missione un mercenario guadagna il tratto [[NPC/Mercenari/mercenari#**2.D - STATO**\|ferita]] o il tratto [[NPC/Mercenari/mercenari#**2.D - STATO**\|trauma]] in relazione alle Categorie.
+- Il tratto [[NPC/Mercenari/mercenari#**2.D - STATO**\|ferita]] o [[NPC/Mercenari/mercenari#**2.D - STATO**\|trauma]] assegnano un valore compreso tra -1 e -2 al rapporto di [[NPC/Mercenari/mercenari#**2.C - AFFINITÀ**\|affinità]].
+- Il mercenario ha una probabilità del 15% di perdere il proprio [[equipaggiamento\|equipaggiamento]] se ne possiede uno.
 - Il mercenario ha una probabilità del 25% di riportare tra il 50% e il 70% delle [[Gameplay/Missioni/missioni#***1.C.a - Guadagno*** 1bb2f6\|monete]] previste dalla missione.
 - La missione viene mostrata sul [[giornale\|giornale]] o sul [[Gameplay/Missioni/report\|report]] come ***superata*** in base alla [[Gameplay/Missioni/missioni#**1.A - TIPI DI MISSIONE** 29f42\|tipologia di missione]].
-- La missione avanza, se ne possiede uno, sul proprio [[ramo narrativo\|ramo narrativo]].
+- La missione avanza, se ne possiede uno, sul proprio [[Gameplay/Missioni/missioni#**1.D.C - RAMO NARRATIVO**\|ramo narrativo]].
 
-##### SUPERATA
+##### **1.D.b.4 - SUPERATA**
 Una missione ***superata*** ha le seguenti caratteristiche:
 
 - La missione viene mostrata sul [[giornale\|giornale]] o sul [[Gameplay/Missioni/report\|report]] come ***superata*** in base alla [[Gameplay/Missioni/missioni#**1.A - TIPI DI MISSIONE** 29f42\|tipologia di missione]].
 - Il mercenario riporta il 100% delle [[Gameplay/Missioni/missioni#***1.C.a - Guadagno*** 1bb2f6\|monete]] previste dalla missione.
-- La missione avanza, se ne possiede uno, sul proprio [[ramo narrativo\|ramo narrativo]].
+- La missione avanza, se ne possiede uno, sul proprio [[Gameplay/Missioni/missioni#**1.D.C - RAMO NARRATIVO**\|ramo narrativo]].
 
-##### SUPERATA CON BONUS
+##### **1.D.b.5 - SUPERATA CON BONUS**
 Una missione ***superata con bonus*** ha le seguenti caratteristiche:
 
 - La missione viene mostrata sul [[giornale\|giornale]] o sul [[Gameplay/Missioni/report\|report]] come ***superata*** in base alla [[Gameplay/Missioni/missioni#**1.A - TIPI DI MISSIONE** 29f42\|tipologia di missione]].
-- Il tratto [[ferita\|ferita]] o [[trauma\|trauma]] assegnano un valore compreso tra +1 e +2 al rapporto di [[NPC/Mercenari/mercenari#**2.A.a - AFFINITÀ**\|affinità]].
-- Il mercenario riporta il 120% delle [[Gameplay/Missioni/missioni#***1.C.a - Guadagno*** 1bb2f6\|monete]] previste dalla missione.
+- Viene assegnato un valore compreso tra +1 o+2 al rapporto di [[NPC/Mercenari/mercenari#**2.A.a - AFFINITÀ**\|affinità]].
+- Il mercenario riporta tra il 110% e il 120% delle [[Gameplay/Missioni/missioni#***1.C.a - Guadagno*** 1bb2f6\|monete]] previste dalla missione.
 - Il mercenario riporta un'item se la missione possiede il [[tag dono\|tag dono]].
-- La missione avanza, se ne possiede uno, sul proprio [[ramo narrativo\|ramo narrativo]].
+- La missione avanza, se ne possiede uno, sul proprio [[Gameplay/Missioni/missioni#**1.D.C - RAMO NARRATIVO**\|ramo narrativo]].
 
-
-
-
-
+#### **1.D.C - RAMO NARRATIVO**
+Per ramo narrativo si intende una serie di missioni concatenate in relazione al risultato ottenuto. Non tutte le missioni possiedono un ramo narrativo e non tutte le missioni avanzano unicamente con il successo. Le missioni possono sia avanzare sul proprio ramo narrativo in base allo stesso e ai risultati ottenuti, venir completati o falliti. 
+Una missione con *ramo narrativo complesso* progredirà nella narrativa sia in caso di fallimento che di successo, mostrando al giocatore le conseguenze delle proprie azioni, positive o negative che siano. Un successo in una missione non corrisponde automaticamente ad un successo per il ramo narrativo, portando il giocatore a valutare con attenzione le proprie scelte e cosa esse comportano.
 
 ## **2 - STRUTTURA TECNICA:**
 Ogni missione è composta da due categorie di fogli di missione:
@@ -196,3 +204,13 @@ Ogni missione è composta da due categorie di fogli di missione:
 			- Illustrazione della missione
 			- Tempo di missione
 			- Soldi guadagnati
+
+## **3 - STRUTTURA ESECUTIVA**
+
+Per portare a termine le missioni il giocatore ha a disposizione due tipi di risorse in base alla tipologia delle stesse:
+- AZIONI
+- CAROVANE
+### **3.A - AZIONI**
+Il giocatore ha a disposizione le ***AZIONI*** per portare a termine le missioni cittadine. 
+Le azioni sono una risorsa indicativa del tempo impiegato da un mercenario a portare a termine una missione in città ed è una risorsa non esplicita.
+
