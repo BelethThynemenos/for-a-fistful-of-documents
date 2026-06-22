@@ -39,8 +39,7 @@ Ad esempio una trattativa diplomatica con dei prigionieri potrebbe possedere i t
 - miniera
 - riscatto
 - notte
-
-#### **1.A.C - BIVIO RISOLUTIVO**
+#### **1.A.c - BIVIO RISOLUTIVO**
 
 
 ![Bivio risolutivo.png](/img/user/Immagini/Bivio%20risolutivo.png)

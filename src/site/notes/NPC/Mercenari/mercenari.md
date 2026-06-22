@@ -31,7 +31,7 @@ Le sprite rappresentano l'aspetto estetico del mercenario rispetto al suo [[NPC/
 #### **1.B - BACKGROUND**
 Il background rappresenta  tutti gli elementi narrativi di un mercenario.
 Attraverso il background sono definite tutte le risposte ottenute dal giocatore alle domande poste e tutte le nuove domande sbloccate nel tempo, relativamente al valore di [[NPC/Mercenari/mercenari#**2.C - AFFINITÀ**\|affinità]].
-Derivano dal background del mercenario tutti i [[NPC/Mercenari/mercenari#**2.B - TRATTI DEI MERCENARI**\|tratti]] che 
+Derivano inoltre dal background del mercenario tutti i [[NPC/Mercenari/mercenari#**2.B - TRATTI DEI MERCENARI**\|tratti]] ad esso associati.
 ### **1.B.a - OBIETTIVI DEI MERCENARI** 
 Ogni mercenario possiede un obiettivo definito. Gli obiettivi sono legati strettamente al background del mercenario e spingono lo stesso a preferire determinati approcci, tipi di missioni o necessità di natura economica. Un mercenario una volta completato il proprio obiettivo, in base al proprio valore di [[NPC/Mercenari/mercenari#**2.C - AFFINITÀ**\|affinità]] con il giocatore, potrebbe scegliere di abbandonare o restare nella gilda.
 
@@ -102,7 +102,7 @@ Ogni tratto possiede relativamente a differenti mercenari, valori differenti ris
 #### **2.B.b - TRATTI SPECIALI**
 Si definiscono tratti speciali tutti quei tratti che non sono legati direttamente ad una statistica. Fanno parte dei tratti speciali ***odi, paure, abilità speciali.*** I tratti speciali sono calcolati separatamente rispetto alle statistiche e vengono utilizzati all'interno del calcolo del risultato di una missione quando richiesti dai relativi [[Gameplay/Missioni/missioni#**1.A.b - TAG CONTESTO**\|tag di contesto]].
 ![Sistema mercenari tratti.png](/img/user/Immagini/Sistema%20mercenari%20tratti.png)
-Solo due tratti vengono associati diversamente e dinamicamente durante il gameplay ad un mercenario e vengono trattati nella sezione [[NPC/Mercenari/mercenari#**2.D - STATO**\|stato]], relativamente a ferite e traumi.
+Solo due tratti vengono associati dinamicamente durante il gameplay ad un mercenario e vengono trattati nella sezione [[NPC/Mercenari/mercenari#**2.D - STATO**\|stato]], relativamente a ferite e traumi.
 ### **2.C - AFFINITÀ**
 Ogni mercenario possiede un valore di affinità. L'affinità è la statistica che determina  l'apprezzamento del mercenario verso il giocatore, definendo il loro rapporto interpersonale. 
 
