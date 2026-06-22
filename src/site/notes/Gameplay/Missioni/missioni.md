@@ -38,7 +38,9 @@ Ad esempio una trattativa diplomatica con dei prigionieri potrebbe possedere i t
 - riscatto
 - notte
 ##### **1.A.C - BIVIO RISOLUTIVO**
-![[Gameplay/Schede secondarie/Bivio risolutivo.canvas\|Bivio risolutivo.canvas]]
+
+
+![Bivio risolutivo.png](/img/user/Immagini/Bivio%20risolutivo.png)
 
 
 
